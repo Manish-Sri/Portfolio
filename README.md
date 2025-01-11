@@ -1,5 +1,5 @@
 # Data Analyst
 
-#Education
+# Education
 
 # Projects
