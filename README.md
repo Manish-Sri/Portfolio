@@ -1,26 +1,33 @@
-# Data Analyst
+# Manish, Data Analyst Portfolio
 
 Welcome to My Portfolio!
 
-I am Manish, a motivated and detail-oriented data analyst passionate about leveraging data to uncover actionable insights and solve complex business problems. With a robust foundation in data analysis, visualization, and exploratory data analysis (EDA), I specialize in transforming raw data into meaningful, data-driven solutions.
+I am Manish, a results-driven **Data Analyst** with expertise in **data analysis, visualization,** and **exploratory data analysis (EDA)**. Skilled in **Excel, SQL, Python**, and **Power BI**, I excel at analyzing large datasets, applying **statistical analysis**, and delivering actionable insights to drive **data-driven decision-making**.
 
-I bring proficiency in Excel, SQL, Python, Power BI and EDA techniques, enabling me to analyze diverse datasets and deliver insights that support strategic decision-making. My hands-on experience in tackling real-world projects has honed my ability to work with large datasets, apply statistical analysis, and create impactful visualizations to communicate findings effectively.
+With hands-on experience in real-world projects, I create impactful visualizations and meaningful solutions. My goal is to leverage my analytical skills to contribute measurable results and transition into a **data analytics** role.
 
-I am eager to collaborate with organizations that value data-driven decision-making and foster professional development. My ultimate goal is to utilize my analytical skills to deliver measurable results and, over time, transition into a Data Scientist role, further enhancing my contributions to predictive modeling and machine learning.
+Explore my portfolio to discover how my expertise in **data analytics** and commitment to continuous learning can add value to your team. If you are looking for a dedicated, results-oriented professional, I would be delighted to discuss how I can contribute to your organization's success.
 
-Explore my portfolio to discover how my expertise in data analytics and commitment to continuous learning can add value to your team. If you are looking for a dedicated, results-oriented professional, I would be delighted to discuss how I can contribute to your organization's success.
+#### Technical Skills:
+- **Database Management** : MySQL
+- **Data Analysis Tools** : Power BI, Pandas, Numpy, Matplotlib, Sea born, Statistics
+- **Data Visualisation** : DAX, Power BI, Excel (Pivot Tables, VLOOKUP.)
+- **Version Control** : Git
+- **Development Environments**: : Jupyter Notebook, Google Colab.
 
-#### Technical Skills: PowerBI, SQL, Excel, Python
+### Education
+#### B.E| Rajiv Gandhi Proudyogiki Vishwavidyalaya Bhopal (_May 2017_)								       		
 
-###Education
-#- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-#- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-#- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
-**Junior Data Anayst @ Freekyat System Software (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Junior Data Anayst @ Freekyat System Software (_Aug 2022 - Present_)**
+- Utilized MySQL for efficient data extraction, querying, and manipulation to support analytical projects.
+- Designed interactive Power BI dashboards, enhancing data visibility by 30%.
+- Developed advanced DAX queries for optimized data modeling and performance.
+- Automated reporting in Excel with advanced functions and pivot tables, improving accuracy by 20%.
+- Streamlined data preparation with Power Query (M-Query) for transformation and cleaning.
+- Managed complex datasets and ensured data integrity using SQL Server.
+- Applied expertise in data modeling to enable accurate analysis and reporting.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
