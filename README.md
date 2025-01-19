@@ -8,7 +8,7 @@ With hands-on experience in real-world projects, I create impactful visualizatio
 
 Explore my portfolio to discover how my expertise in **data analytics** and commitment to continuous learning can add value to your team. If you are looking for a dedicated, results-oriented professional, I would be delighted to discuss how I can contribute to your organization's success.
 
-#### Technical Skills:
+#### Technical Skills
 - **Database Management** : MySQL
 - **Data Analysis Tools** : Power BI, Pandas, Numpy, Matplotlib, Sea born, Statistics
 - **Data Visualisation** : DAX, Power BI, Excel (Pivot Tables, VLOOKUP.)
