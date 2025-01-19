@@ -1,4 +1,4 @@
-# Manish, Data Analyst Portfolio
+# Data Analyst Portfolio
 
 Welcome to My Portfolio!
 
